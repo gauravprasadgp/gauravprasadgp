@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p>
 
-- 🔭 I’m currently working on **Grapido**
+- 🔭 I’m currently working on **Grapido** <a href="https://grapido.in" target="_blank">Link</a>
 
 - 💬 Ask me about **Angular, Ionic, Node.js**
 
