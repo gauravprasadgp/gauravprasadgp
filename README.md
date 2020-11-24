@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<div class="tenor-gif-embed" data-postid="10604183" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/hi-wave-gif-10604183">Hi Wave GIF</a> from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h1 align="center">I'm Gaurav</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p>
 
