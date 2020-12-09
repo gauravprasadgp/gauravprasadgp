@@ -1,7 +1,7 @@
 <div><img src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183"/></div>
 <h1 align="center">I'm Gaurav</h1>
 <h3 align="center">Full Stack Developer</h3>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
 
 - 🔭 I’m currently working on **Grapido** <a href="http://grapido.in" target="_blank">Link</a>
 
