@@ -1,7 +1,7 @@
-<div><img src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183"/></div>
+<!-- <div><img src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183"/></div> -->
 <h1 align="center">I'm Gaurav</h1>
 <h3 align="center">Full Stack Developer</h3>
-<div align="right">
+<div align="center">
   <a href="https://app.daily.dev/gauravprasadgp"><img src="https://api.daily.dev/devcards/d25fbc6669b14f3888bc0183c15ff00a.png?r=hsu" width="400" alt="Gaurav Prasad's Dev Card"/></a>
   </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
