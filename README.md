@@ -26,3 +26,4 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/katopz/stack-logo/c7d638af976e535532a844cdb3e0563c1deadcba/Nginx_logo.svg" alt="nginx" width="60" height="40"/>
 </p>
+<a href="https://app.daily.dev/gauravprasadgp"><img src="https://api.daily.dev/devcards/d25fbc6669b14f3888bc0183c15ff00a.png?r=hsu" width="400" alt="Gaurav Prasad's Dev Card"/></a>
