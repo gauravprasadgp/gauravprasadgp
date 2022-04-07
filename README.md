@@ -1,6 +1,9 @@
 <div><img src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183"/></div>
 <h1 align="center">I'm Gaurav</h1>
 <h3 align="center">Full Stack Developer</h3>
+<div align="right">
+  <a href="https://app.daily.dev/gauravprasadgp"><img src="https://api.daily.dev/devcards/d25fbc6669b14f3888bc0183c15ff00a.png?r=hsu" width="400" alt="Gaurav Prasad's Dev Card"/></a>
+  </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
 
 - 🔭 I’m currently working on **Grapido** <a href="http://grapido.in" target="_blank">Link</a>
@@ -26,4 +29,3 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/python.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/katopz/stack-logo/c7d638af976e535532a844cdb3e0563c1deadcba/Nginx_logo.svg" alt="nginx" width="60" height="40"/>
 </p>
-<a href="https://app.daily.dev/gauravprasadgp"><img src="https://api.daily.dev/devcards/d25fbc6669b14f3888bc0183c15ff00a.png?r=hsu" width="400" alt="Gaurav Prasad's Dev Card"/></a>
