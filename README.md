@@ -6,9 +6,9 @@
   </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
 
-- 🔭 I’m currently working on **Grapido** <a href="http://grapido.in" target="_blank">Link</a>
+- 🔭 **Grapido** <a href="http://grapido.in" target="_blank">Link</a>
 
-- 💬 Ask me about **React, Angular, Ionic, Node.js**
+- 💬 Ask me about **Spring Boot, Java, React, Angular, Ionic, Node.js**
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
