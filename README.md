@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
 
-- 🔭 **Grapido** <a href="http://grapido.in" target="_blank">Link</a>
+- 🔭
 
 - 💬 Ask me about **Spring Boot, Java, React, Angular, Ionic, Node.js**
 
