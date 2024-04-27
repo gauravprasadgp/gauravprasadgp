@@ -3,9 +3,9 @@
 <h3 align="center">Full Stack Developer</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
 
-- 🔭
+- 🔭 Building full-stack dreams with React, Java, and a sprinkle of LLM magic. 🪄 
 
-- 💬 Ask me about **Spring Boot, Java, React, Angular, Ionic, Node.js**
+- 💬 Ask me anything about Spring Boot, WebFlux, databases (SQL & MongoDB), Asynchronous Programming, or Node.js/FastAPI.
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
