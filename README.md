@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp559" alt="gp559" /> </p> -->
 
-- 🔭 Building full-stack dreams with React, Java, and a sprinkle of LLM magic. 🪄 
+- 🔭 Building full-stack dreams with React, Java, Python and a sprinkle of LLM magic. 🪄 
 
 - 💬 Ask me anything about Spring Boot, WebFlux, databases (SQL & MongoDB), Asynchronous Programming, or Node.js/FastAPI.
 
