@@ -7,9 +7,8 @@
 
 - 💬 Ask me anything about Spring Boot, WebFlux, databases (SQL & MongoDB), Asynchronous Programming, or Node.js/FastAPI.
 <br></br>
-[![My Medium story](@gauravprasadgp&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@gauravprasadgp&index=1&source=medium)](#)
-[![My Medium story](@gauravprasadgp&index=0)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@gauravprasadgp&index=0&source=medium)](#)
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1" alt="Recent Article 1"> 
 
 
 <p align="left">
