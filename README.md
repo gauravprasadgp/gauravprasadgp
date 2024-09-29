@@ -6,7 +6,10 @@
 - 🔭 Building full-stack dreams with React, Java, Python and a sprinkle of LLM magic. 🪄 
 
 - 💬 Ask me anything about Spring Boot, WebFlux, databases (SQL & MongoDB), Asynchronous Programming, or Node.js/FastAPI.
-- [![Gaurav Prasad Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=gauravprasadgp)](https://medium.com/@gauravprasadgp)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/2" alt="Recent Article 2"> 
+
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/>
