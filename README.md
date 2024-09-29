@@ -7,8 +7,12 @@
 
 - 💬 Ask me anything about Spring Boot, WebFlux, databases (SQL & MongoDB), Asynchronous Programming, or Node.js/FastAPI.
 <br></br>
+<a target="_blank" href="https://gauravprasadgp.medium.com/automating-text-to-sql-query-generation-using-llms-5d6e477a320c"><img src="https://gauravprasadgp.medium.com/automating-text-to-sql-query-generation-using-llms-5d6e477a320c" alt="Text-to-SQL">
+<a target="_blank" href="https://medium.com/@gauravprasadgp/building-our-custom-llm-orchestration-framework-lessons-learned-from-langchain-and-llama-index-843151491f39"><img src="https://medium.com/@gauravprasadgp/building-our-custom-llm-orchestration-framework-lessons-learned-from-langchain-and-llama-index-843151491f39" alt="LLM Orchestration"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1" alt="Recent Article 1"> 
+
+
 
 
 <p align="left">
