@@ -2,10 +2,9 @@
 🔭 Building full-stack dreams with React, Java, Python and a sprinkle of LLM magic. 🪄<br><br>💬 Ask me anything about Spring Boot, WebFlux, databases (SQL & MongoDB), Asynchronous Programming, or Node.js/FastAPI.
 
 ## Medium Post:
-Text-To-SQL: [![Text-To-SQL](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://gauravprasadgp.medium.com/automating-text-to-sql-query-generation-using-llms-5d6e477a320c)<br></br>
-LLM Orchestration: [![LLM Orchestration](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gauravprasadgp/building-our-custom-llm-orchestration-framework-lessons-learned-from-langchain-and-llama-index-843151491f39)<br></br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gauravprasadgp/2" alt="Recent Article 2">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravprasadgp) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gauravprasadgp) 
