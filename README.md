@@ -11,104 +11,129 @@
 
 # 💻 Tech Stack
 
-## 🧑‍💻 Languages
-- JavaScript
-- TypeScript
-- Java
-- Python
+<table>
+<tr>
+<td valign="top" width="25%">
 
-## ☁️ Cloud & Hosting
-- AWS
-- Azure
-- Google Cloud
-- DigitalOcean
-- Firebase
-- Netlify
-- Vercel
-- GitHub Pages
+### 🧑‍💻 Languages
+- JavaScript  
+- TypeScript  
+- Java  
+- Python  
 
-## ⚙️ Frameworks & Libraries
-- Angular
-- React (Redux, React Router)
-- Next.js
-- Express.js
-- FastAPI
-- Fastify
-- Django
-- Flask
-- Spring
-- Bootstrap
-- RxJS
-- Socket.io
+### ☁️ Cloud
+- AWS  
+- Azure  
+- Google Cloud  
+- DigitalOcean  
+- Firebase  
 
-## 📱 Mobile & UI
-- Flutter
-- Ionic
+</td>
 
-## 🗄️ Databases
-- MySQL
-- PostgreSQL
-- MariaDB
-- MongoDB
-- Redis
+<td valign="top" width="25%">
 
-## 🔧 DevOps & Tools
-- Docker
-- Kubernetes
-- Nginx
-- Apache
-- Apache Tomcat
-- Apache Maven
-- Gunicorn
-- Webpack
-- Yarn
-- NPM
+### ⚙️ Frameworks
+- Angular  
+- React (Redux, Router)  
+- Next.js  
+- Express.js  
+- FastAPI  
+- Django  
+- Flask  
+- Spring  
 
-## 🔁 Messaging & Streaming
-- Apache Kafka
-- RabbitMQ
+</td>
 
-## 🤖 Data Science & ML
-- NumPy
-- Pandas
-- Matplotlib
-- TensorFlow
-- Keras
-- scikit-learn
-- OpenCV
+<td valign="top" width="25%">
 
-## 🔐 Auth & APIs
-- JWT
-- Swagger
-- Postman
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- MariaDB  
+- Redis  
 
-## 🔍 Monitoring & Analytics
-- Grafana
-- Prometheus
-- ElasticSearch
+### 🔁 Messaging
+- Kafka  
+- RabbitMQ  
 
-## 🧪 CI/CD
-- GitHub Actions
-- GitLab CI
-- CircleCI
-- TeamCity
+</td>
 
-## 🗂️ Version Control
-- Git
-- GitHub
-- GitLab
-- Mercurial
+<td valign="top" width="25%">
 
-## 🎨 Design & Productivity
-- Figma
-- Canva
-- Notion
+### 🔧 DevOps
+- Docker  
+- Kubernetes  
+- Nginx  
+- Apache  
+- Maven  
+- Tomcat  
 
-## 🧰 Other Tools
-- Gradle
-- SonarQube
-- SonarLint
-- WordPress
+### 🧪 CI/CD
+- GitHub Actions  
+- GitLab CI  
+- CircleCI  
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🤖 ML & Data
+- NumPy  
+- Pandas  
+- TensorFlow  
+- Keras  
+- scikit-learn  
+- OpenCV  
+
+</td>
+
+<td valign="top">
+
+### 📱 UI & Mobile
+- Flutter  
+- Ionic  
+- Bootstrap  
+
+### 🔐 API Tools
+- JWT  
+- Swagger  
+- Postman  
+
+</td>
+
+<td valign="top">
+
+### 🔍 Monitoring
+- Grafana  
+- Prometheus  
+- ElasticSearch  
+
+### 🎨 Design
+- Figma  
+- Canva  
+
+</td>
+
+<td valign="top">
+
+### 🗂️ Version Control
+- Git  
+- GitHub  
+- GitLab  
+- Mercurial  
+
+### 🧰 Others
+- Gradle  
+- SonarQube  
+- SonarLint  
+- WordPress  
+
+</td>
+</tr>
+</table>
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gauravprasadgp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
